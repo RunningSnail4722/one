@@ -1,0 +1,69 @@
+body{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 95%;
+	background: url(../img/task3_03.jpg);
+}
+.top{
+	padding-top: 25px;
+	padding-left: 40px;
+}
+.logo{
+	padding-top: 40px;
+	text-align: center;
+}
+.logo img{
+	height: 4rem;
+}
+.text{
+	padding-left: 15%;
+	padding-right:15%;
+	padding-top: 100px;
+	text-align: center;
+}
+.text p{
+	color: #fff;
+	font-size: 30px;
+	line-height: 58px;
+}
+.bottom{
+	padding-top: 170px;
+	padding-left: 21%;
+	padding-right: 21%;
+}
+
+.l_left img{
+	width: 87px;
+}
+.l_left{
+	color: #FFFFFF;
+	font-size: 24px;
+	float: left;
+}
+.l_left .img{
+	width: 85px;
+	height: 85px;
+	margin-left: 20px;
+	border-radius: 50%;
+	-moz-border-radius:50%;
+	background-color: #3ea7ea;
+	overflow: hidden;
+}
+.l_right img{
+	width: 80px;
+}
+.l_right{
+	color: #FFFFFF;
+	font-size: 24px;
+	float: right;
+}
+.l_right .img{
+	width: 87px;
+	height: 85px;
+	margin-left: 12px;
+	border-radius: 50%;
+	-moz-border-radius:50%;
+	background-color: #009e96;
+	overflow: hidden;
+}
